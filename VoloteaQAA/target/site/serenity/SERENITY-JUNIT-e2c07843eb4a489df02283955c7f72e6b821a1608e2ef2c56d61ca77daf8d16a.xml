@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="OriginCountry" skipped="0" tests="1" time="25.42" timestamp="2022-09-11 11:27:30"><testcase name="Select Selector Origin"><failure message="&#10;Expected: an element that is visible&#10;     but: no matching element found by className: v7-destinations-list || row row--flex" type="java.lang.AssertionError">
+Expected: an element that is visible
+     but: no matching element found by className: v7-destinations-list || row row--flex</failure><system-err>
+Expected: an element that is visible
+     but: no matching element found by className: v7-destinations-list || row row--flex&#13;
+com.narvaez.qa.questions.Origin.answeredBy(Origin.java:15)&#13;
+com.narvaez.qa.questions.Origin.answeredBy(Origin.java:12)&#13;
+com.narvaez.qa.stepsdefinitions.originStepDefinitions.theUserCanSeeTheNumberOfCitiesGroupedByCountry(originStepDefinitions.java:27)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
