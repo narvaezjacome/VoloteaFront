@@ -5,4 +5,3 @@ Feature: PassengerAdult
 
   Scenario:Select Selector Passenger
 
-    
