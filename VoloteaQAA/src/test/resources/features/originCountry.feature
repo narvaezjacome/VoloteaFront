@@ -8,4 +8,5 @@ Feature: OriginCountry
 
     Scenario:Select Selector Origin
       When This user selects the option countries of origin
-      Then The user can see the number of cities grouped by country Spain
+      Then The user can see the number of cities grouped by country ESPAÑA
+
