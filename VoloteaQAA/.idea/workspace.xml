@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fbc56cb-5007-41bc-a5b3-385f335c14ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Documents/TestCases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Documents/TestCases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/narvaez/qa/userInterfaces/Origin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/narvaez/qa/userInterfaces/Origin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/originCountry.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/originCountry.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/passengerAdult.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/passengerAdult.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/2022-09-11T07-52-29_225-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.narvaez.qa.runners.originRunners.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.narvaez.qa.runners.originRunners.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.narvaez.qa.runners.passengerRunners.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.narvaez.qa.runners.passengerRunners.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.narvaez.qa.runners.originRunners.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/com.narvaez.qa.runners.originRunners.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.narvaez.qa.runners.passengerRunners.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/com.narvaez.qa.runners.passengerRunners.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0428aa9782b753e89292b165594a5c5987f029f03c82ab89d3bd8c88384dd86b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0ea21335f1e6d1a5ca4b5a822fbec6184ece54e1b0f76f48561ef4887fd026ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1c7808dbb22d36da150ebd1d1d35f7d87402336b4acb1b09d92c80b44100c4c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2379ecd4ff0114fbb9d39b15489af6f9625bcb11fb141456ff2bfe435df3e775.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2591672a563e6b3cfb2fb39ae80467a26162df955f0b71f533842b60195a582a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/2591672a563e6b3cfb2fb39ae80467a26162df955f0b71f533842b60195a582a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/25cf310a0f50aa84004a4bc5bc9fb15c3fd432041c32d1b7dae2d50906b25966.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/25cf310a0f50aa84004a4bc5bc9fb15c3fd432041c32d1b7dae2d50906b25966.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/25cf310a0f50aa84004a4bc5bc9fb15c3fd432041c32d1b7dae2d50906b25966.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/25cf310a0f50aa84004a4bc5bc9fb15c3fd432041c32d1b7dae2d50906b25966.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2d1fec0be16c230c04967e4e0f4e4c1947698d8c6aa802f0c60f8eb7f6aff5af.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/2d1fec0be16c230c04967e4e0f4e4c1947698d8c6aa802f0c60f8eb7f6aff5af.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2d9fbbfca5cd65a04ae73a0db0d490dc91658c04ede94f4d8699068ebb03a244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3c1c535736b066964e8a3c9af77f8a55f9220e8c41f381e0ef63d6884b68387e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3ca79bb896909593b1f26a2861de67018dd9193e8aca10556e5f93a5edd7ce44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/44a1ba6544ed8917311ec14d21a2e948d0fc939ccfde23b821017d6d02828e11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/479b9bc554016911a0cc329c3adf478f7e50e25f1ff201c46a5cdd6c4191873d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/53de8de01cfc4b5643ba2e857599ba8e526da19219f1795e4532e723e7cd0e12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/55445693805cbb6fc6e2b782e62377511504fa40255b456a4f2df6730ed761a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/56759f2d6087dc0ed9dec1b6a2440a35ea3e76ab46d30e5b47fe01ff216e9a27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5c9fe661ef7ac504abde73d25393f085c4658c1775706b4877fc3790f479edba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5d0f2bad7909a5f42798d687b3e53794c92009df7c20577c12903ab0d3014c47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5d0f2bad7909a5f42798d687b3e53794c92009df7c20577c12903ab0d3014c47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/617cfbbc01ca27b01377e03b3954abecc89c17518309ed25e9c2bb698cfcf0d5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/65f1b747916c9b48e0a82e3d2117f443e704776a4d250cad64fe5dbef6394f80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6bc3a3c48372dc25ad9e33695d16fd09f4d62afc01a42112eb2af048d052a9f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/72e2f941d9fc2f6102af4e4cfb125aaf4656d2472647122fd7200bbaaa187122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7da9a7a9e091842016f173fa2833a7cdbe0776f475e21fde0f5f40f1389b452c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7ec149cdb94ad264766d87d988556cb3eaeda248a02703c771edc118dee5b597.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/86d6352aa8b4b53851eecbf90989c083a88a0f1f883652f80085e3fd4f2dcb5c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8ac6268651982f9f5790aa3d03b3c9b25ee08d9b844a7e18122656c5683d2e74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/985b0429ebed4fc08b0bf4beebb9e04c078dafecaaeb81532c3e246776572c63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9b481df26d023b7a78c17ed21f37969c547957601b5315544d01ec1a0e618a58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9e1f6d9fa9bdfa8dc2d0ea983ec02509fbe3f06f2b5c514d5234629597fb97a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9e829a17fc137b2f639c641fd6864bbe906ea4dba0cbb70baff3c7cd7e2703e0.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/9e829a17fc137b2f639c641fd6864bbe906ea4dba0cbb70baff3c7cd7e2703e0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-1feb59ed9ed63ce14fde2dd1f2487d9781f257789cb018fded6020527f38de0a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a8fb0042b1a6418793e3f2ee5fab8c30f08482311ecc55b78c572d0256a37d0c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ae9c561091a80628d51ecaed952a3d1ba83523fb954af0499619bf9441461cbd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/af9e24c78d99c309eea9a70eaaebed51ed7f28c6ada2b26cfcb74a7d4b7f6d5f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b07510bc4ae4400e60e78b6e0900aabf8fdaa0fd78e20f58d3a2b9e2ab10d211.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b11b13202545b789223da4d4ffa1ac48c97e53141ec0d07847fb3d8e3c2c91d5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b11b13202545b789223da4d4ffa1ac48c97e53141ec0d07847fb3d8e3c2c91d5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c9b7f08622d1fd1ca3099c6530c2da83d3e693e37692bd033e7944c336fa18e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d601b48fc828c75cb74d276e930221eebf9de311587f6179680d9282c83348ea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/db063a7b5ecbce75820aad24fe5e8114b23a626460de040ea81eaaaf6fd30a59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ded66b658121c3c235da41d5976d97accacc7666e4dc14e57a951612828c2b82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e2c07843eb4a489df02283955c7f72e6b821a1608e2ef2c56d61ca77daf8d16a_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e44b5ba61eb9811bdefa8c7efea7d71ffab2e0ff2760c96bed5f4ae85e9a15b7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e44b5ba61eb9811bdefa8c7efea7d71ffab2e0ff2760c96bed5f4ae85e9a15b7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e44b5ba61eb9811bdefa8c7efea7d71ffab2e0ff2760c96bed5f4ae85e9a15b7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e44b5ba61eb9811bdefa8c7efea7d71ffab2e0ff2760c96bed5f4ae85e9a15b7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e4faa1e530c731cc5b8186f613164fcaa5cf0ed6dc4eef14902db88cabda859f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e4faa1e530c731cc5b8186f613164fcaa5cf0ed6dc4eef14902db88cabda859f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource1086067173573936265.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource1193084965271664532.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource2229182644171035756.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource227897001803450098.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource2332191224949272107.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource3339769104309035906.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource3621368741926033762.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource3685106997835616928.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource4358420715001467594.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource5018540573908373039.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource5019635231699333987.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource5325307863512359098.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource544819461122597834.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource5715538762384020370.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource5934461398133084543.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource6525054188202826325.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource6665270586958756359.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource696398504349072225.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource7204125138661106314.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource7295843223585492801.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource7540913199496667769.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource765672667822942104.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource7881023601119669108.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource8660916918047584507.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource8674096425869408719.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource8796491928845227691.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource894323914154512664.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/originCountry.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/originCountry.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EaMueRiBURqwdekXtbnO73QrFQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/YilmerD/QAA/VoloteaFront/VoloteaFront/VoloteaQAA&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YilmerD\QAA\VoloteaFront\VoloteaQAA\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.originRunners">
+    <configuration name="Feature: originCountry" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/originCountry.feature" />
+      <option name="GLUE" value="com.narvaez.qa.stepsdefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="VoloteaQAA" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: originCountry" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="originRunners" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoloteaQAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.narvaez.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.narvaez.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.narvaez.qa.runners.originRunners" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passengerRunners (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoloteaQAA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.narvaez.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.narvaez.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.narvaez.qa.runners.passengerRunners" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passengerRunners" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoloteaQAAFront" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.narvaez.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.narvaez.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.narvaez.qa.runners.passengerRunners" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="VoloteaQAAFront" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="VoloteaQAAFront" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.originRunners" />
+        <item itemvalue="JUnit.passengerRunners (1)" />
+        <item itemvalue="Cucumber Java.Feature: originCountry" />
+        <item itemvalue="JUnit.passengerRunners" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fbc56cb-5007-41bc-a5b3-385f335c14ab" name="Changes" comment="" />
+      <created>1662829476577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662829476577</updated>
+    </task>
+    <servers />
+  </component>
+</project>
