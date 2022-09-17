@@ -5,9 +5,6 @@ import org.openqa.selenium.By;
 
 public class Origin {
 
-    public static final Target COOKIES_ACCEPT = Target
-            .the("Acepta Cookies")
-            .located(By.id("onetrust-accept-btn-handler"));
     public static final Target ENTER_ORIGIN = Target
             .the("Selecciona lugar de origen")
             .located(By.id("input-text_sf-origin"));
