@@ -1,0 +1,7 @@
+com\narvaez\qa\tasks\OpenOrigin.class
+com\narvaez\qa\tasks\OpenBrowser.class
+com\narvaez\qa\userInterfaces\Origin.class
+com\narvaez\qa\userInterfaces\Search.class
+com\narvaez\qa\tasks\OpenSearch.class
+com\narvaez\qa\questions\Passenger.class
+com\narvaez\qa\questions\Origin.class
