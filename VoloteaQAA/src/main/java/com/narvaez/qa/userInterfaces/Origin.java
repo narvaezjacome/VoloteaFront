@@ -5,12 +5,9 @@ import org.openqa.selenium.By;
 
 public class Origin {
 
-    public static final Target COOKIES_ACCEPT = Target
-            .the("Acepta Cookies")
-            .located(By.id("onetrust-accept-btn-handler"));
     public static final Target ENTER_ORIGIN = Target
             .the("Selecciona lugar de origen")
-            .located(By.id("input-text_sf-origin"));
+            .located(By.xpath("//*[@id=\"main\"]/div[3]/div[1]/div/div[2]/search-flow-wrapper/volotea-sf-services-range/div/volotea-sf-clickable-wrapper/div/div/form/div[2]/div[1]"));
 
     public static final Target ENTER_COUNTRY = Target
             .the("Selecciona pestaña pais")

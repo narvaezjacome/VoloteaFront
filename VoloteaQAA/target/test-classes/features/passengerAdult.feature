@@ -7,3 +7,4 @@ Feature: PassengerAdult
     Given The user in the search section
     When This user clicks on passenger
     Then He can see an adult preselected 1
+
