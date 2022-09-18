@@ -12,7 +12,7 @@ import static com.narvaez.qa.userInterfaces.Destination.VALIDATE_COUNTRYDESTINAT
 public class Destination implements Question<String> {
     @Override
     public String answeredBy(Actor actor) {
-        actor.attemptsTo(WaitUntil.the((VALIDATE_COUNTRYDESTINATION), WebElementStateMatchers.isVisible()));
+        actor.attemptsTo(WaitUntil.the((VALIDATE_COUNTRYDESTINATION), WebElementStateMatchers.isEnabled()));
         return Text.of(VALIDATE_COUNTRYDESTINATION).viewedBy(actor).asString();
     }
     public static Destination message(){ return new Destination();}

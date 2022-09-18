@@ -1,4 +1,8 @@
-com\narvaez\qa\runners\passengerRunners.class
+com\narvaez\qa\runners\departureRunners.class
 com\narvaez\qa\stepsdefinitions\originStepDefinitions.class
+com\narvaez\qa\runners\destinationRunners.class
+com\narvaez\qa\stepsdefinitions\destinationStepDefinitions.class
+com\narvaez\qa\stepsdefinitions\departureDateStepDefinitions.class
+com\narvaez\qa\runners\passengerRunners.class
 com\narvaez\qa\stepsdefinitions\passengerStepDefinitions.class
 com\narvaez\qa\runners\originRunners.class
