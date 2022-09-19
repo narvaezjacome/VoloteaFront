@@ -6,7 +6,11 @@ C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\nar
 C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\tasks\OpenBrowser.java
 C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\questions\Origin.java
 C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\userInterfaces\Departure.java
+C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\userInterfaces\Return.java
+C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\tasks\DeselectDepartureDate.java
+C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\tasks\SelectReturnDate.java
 C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\questions\Departure.java
+C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\questions\Return.java
 C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\tasks\OpenDepartureDate.java
 C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\tasks\OpenSearch.java
 C:\Users\yilme\Automation_Projects\VoloteaFront\VoloteaQAA\src\main\java\com\narvaez\qa\questions\Passenger.java

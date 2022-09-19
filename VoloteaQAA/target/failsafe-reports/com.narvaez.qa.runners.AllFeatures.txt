@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.narvaez.qa.runners.AllFeatures
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 76.521 s - in com.narvaez.qa.runners.AllFeatures

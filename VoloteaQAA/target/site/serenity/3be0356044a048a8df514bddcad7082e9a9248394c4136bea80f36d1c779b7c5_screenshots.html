@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" href="fontawesome-free-5.3.1-web/css/all.css">
+<link rel="stylesheet" href="fontawesome-free-5.3.1-web/css/v4-shims.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.css">
+<link rel="stylesheet" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.19/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.19/datatables.min.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.19/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.19/datatables.bootstrap4.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname"></span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="9024fd91438f65c9ed08fe8fbfd9926114bb06eb99ac67a6d150ae3685b7744e.html">Return Date</a></span>
+                > <span class="truncate-60"><a
+                    href="3be0356044a048a8df514bddcad7082e9a9248394c4136bea80f36d1c779b7c5.html">Select return date </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 18-09-2022 23:47</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Return Date </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                As quality control automation<br />
+I want to enter the return date<br />
+Validate return date selector
+                                </div>
+                            </div>
+
+                            <div class="requirementNarrative">Background: select return date
+                                    <p></p>
+                            </div>
+                        </td>
+                        <td valign="top" align="right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Select return date
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="fb4c89dc4069b2c754da74a2e47272982af4e8f5afb6e8a7f4cf4ef1b96e2594.png" title="Given The user in the search section" width="1920"/>
+                <img src="fb4c89dc4069b2c754da74a2e47272982af4e8f5afb6e8a7f4cf4ef1b96e2594.png" title="Yilmer d narvaez open browser" width="1920"/>
+                <img src="885b98b4c688d6fa5e535426ee7acf45d24216ef9dbe31fa577756fc8b30b765.png" title="Yilmer D Narvaez opens the https://www.volotea.com/es/" width="1920"/>
+                <img src="f73fe3ed29530e89dea7319a85d1289a1fd0ebdacf271e44870b4f81563306b0.png" title="Yilmer D Narvaez clicks on Acepta Cookies" width="1920"/>
+                <img src="bea17d59e0cc26ac7b17bbf890d9bb4c9c43318d83d22645c821eb7926e10008.png" title="Yilmer D Narvaez clicks on Acepta Cookies" width="1920"/>
+                <img src="c763eb7c65954e5500a045ecc9ff53d34bc20905834c847ab280f653770183b9.png" title="And this user clicks on the destination city" width="1920"/>
+                <img src="7d1f91d2c2b918c6710286a38b18d16f14bf4bbfb7b2a29c4782bc7c244d0b34.png" title="Yilmer d narvaez open destination" width="1920"/>
+                <img src="a922b6578ec1026cdef8c77d3d6f2d4fc7366304a93950b558a6dde9dd63e37e.png" title="Yilmer D Narvaez clicks on Selecciona lugar de origen" width="1920"/>
+                <img src="d2efae22ae1e0efaff19f58fa2e1d48f0e01283f25b0446bc7742ffe76573cec.png" title="And this user clicks start date" width="1920"/>
+                <img src="2bbb46ed3f7629744cc6f3a0b4df7163ce4b114cbc5ffcb6904e50ea416cef6b.png" title="And this user clicks start date" width="1920"/>
+                <img src="9df9ec34e8a99a420fbd386207fd3cac801fa52325ca25a42bdd881baa2c33ee.png" title="Yilmer d narvaez open departure date" width="1920"/>
+                <img src="97eefad4ce0d5ed0004cfa82d21f6fdc6c4ecc94799357eccf421cc051c8bd56.png" title="Yilmer d narvaez open departure date" width="1920"/>
+                <img src="b8dcca92063f7410647261de4efdc8586f313e6bff7b6b41eab1288c12980c71.png" title="Yilmer D Narvaez clicks on Selecciona lugar de destino" width="1920"/>
+                <img src="42d56e976be5267d2fe150d94653ca2a99bc4b0bf5d420cc0765f4dfbe18fd82.png" title="Yilmer D Narvaez clicks on Selecciona lugar de destino" width="1920"/>
+                <img src="97eefad4ce0d5ed0004cfa82d21f6fdc6c4ecc94799357eccf421cc051c8bd56.png" title="Yilmer d narvaez select departure date" width="1920"/>
+                <img src="2bbb46ed3f7629744cc6f3a0b4df7163ce4b114cbc5ffcb6904e50ea416cef6b.png" title="Yilmer d narvaez select departure date" width="1920"/>
+                <img src="97eefad4ce0d5ed0004cfa82d21f6fdc6c4ecc94799357eccf421cc051c8bd56.png" title="Yilmer D Narvaez clicks on Selecciona fecha habilitada" width="1920"/>
+                <img src="24722ba2b714bca54883779d2e0fef87a609825be0b2f0d01b9ac68ee6c58442.png" title="Yilmer D Narvaez clicks on Selecciona fecha habilitada" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="When choose on the return date" width="1920"/>
+                <img src="f8d212d2fddeb14717cca168f68618ee755df53c0b5706a85e3d1e1cbbc005b1.png" title="Yilmer d narvaez select return date" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="Yilmer d narvaez select return date" width="1920"/>
+                <img src="02eb39bb1589387c87bdfe5296cc6d6aa6f7a6490559e94015302cee51c22096.png" title="Yilmer D Narvaez clicks on Selecciona fecha de regreso" width="1920"/>
+                <img src="1b8f5c6f5c8ad51ccd135fba4cb75596749394e6e351fab91fdb2c81e41e20f7.png" title="Yilmer D Narvaez clicks on Selecciona fecha de regreso" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="And the user changes the checkout date" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="Then departure" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="Then user can see later dates disabled" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="Yilmer d narvaez select return date" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="Yilmer D Narvaez clicks on Selecciona fecha de regreso" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="And the user selects another departure date, the return date is deselected" width="1920"/>
+                <img src="6cc4077800983f58738f08a0d57f73aabf18d29264105d3c8428ec9f6bb94a9c.png" title="Then return: <span class='success-color'>SUCCESS</span>" width="1920"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.0.12</span>
+</div>
+</body>
+</html>
